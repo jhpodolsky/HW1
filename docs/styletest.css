@@ -7,20 +7,20 @@ body {
 .name {
 	color: black;
 	font-weight: bold;
-	font-size: 130%;
+	font-size: 14px;
 }
 
 .title {
 	color: black;
 	font-weight: bold;
 	text-decoration: underline;
-	font-size: 100%;
+	font-size: 11px;
 }
 
 .subtitle {
 	color: black;
 	font-weight: bold;
-	font-size: 100%;
+	font-size: 10px;
 }
 
 li.closed {
