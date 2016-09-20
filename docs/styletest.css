@@ -36,5 +36,5 @@ li.open {
 }
 
 .just {
-	align: right;
+	float: right;
 }
