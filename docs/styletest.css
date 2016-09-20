@@ -16,6 +16,8 @@ body {
 	font-weight: bold;
 	text-decoration: underline;
 	font-size: 23px;
+	border: solid;
+	border-color: black;
 }
 
 .subtitle {
