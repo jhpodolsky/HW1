@@ -21,6 +21,7 @@ body {
 	border-top-style: solid;
 	border-top-color: black;
 	border-top-width: 1%;
+	border-top-right-radius: 100%;
 }
 
 .subtitle {
