@@ -38,3 +38,9 @@ li.open {
 .just {
 	float: right;
 }
+
+.bounded {
+	border: line;
+	border-color: green;
+	border-width: 10px;
+}
