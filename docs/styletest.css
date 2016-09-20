@@ -42,3 +42,7 @@ li.open {
 .just {
 	float: right;
 }
+
+ul {
+	padding-bottom: 10px;
+}
