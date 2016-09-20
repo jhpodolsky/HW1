@@ -18,6 +18,9 @@ body {
 	font-weight: bold;
 	text-decoration: underline;
 	font-size: 23px;
+	border-top-style: line;
+	border-top-color: black;
+	border-top-width: 10px;
 }
 
 .subtitle {
@@ -37,10 +40,4 @@ li.open {
 
 .just {
 	float: right;
-}
-
-.bounded {
-	border: dotted;
-	border-color: green;
-	border-width: 15px;
 }
