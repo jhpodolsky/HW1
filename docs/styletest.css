@@ -3,6 +3,7 @@ body {
 	font-style: Arial;
 	font-size: 20px;
 	background: #ffcc99;
+	margin-left: 10%;
 }
 
 .name {
@@ -18,7 +19,6 @@ body {
 	font-size: 23px;
 	border: solid;
 	border-color: black;
-	margin-bottom: 500px;
 }
 
 .subtitle {
