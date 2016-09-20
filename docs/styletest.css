@@ -49,3 +49,7 @@ li.open {
 ul {
 	padding-bottom: 10px;
 }
+
+#top {
+	border-top-style: none;
+}
