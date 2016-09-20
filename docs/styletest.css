@@ -40,7 +40,7 @@ li.open {
 }
 
 .bounded {
-	border: line;
+	border: dotted;
 	border-color: green;
 	border-width: 10px;
 }
