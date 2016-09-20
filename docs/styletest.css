@@ -42,5 +42,5 @@ li.open {
 .bounded {
 	border: dotted;
 	border-color: green;
-	border-width: 100px;
+	border-width: 15px;
 }
